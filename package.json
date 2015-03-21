@@ -1,0 +1,28 @@
+{
+  "name": "omniscient-comment-example",
+  "version": "1.0.0",
+  "description": "Threaded comments written with Omniscient.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanrs/omniscient-comment-example.git"
+  },
+  "keywords": [
+    "omniscient",
+    "comments",
+    "forum"
+  ],
+  "author": "Evan Schneider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanrs/omniscient-comment-example/issues"
+  },
+  "homepage": "https://github.com/evanrs/omniscient-comment-example",
+  "dependencies": {
+    "omniscient": "^3.1.0",
+    "react": "^0.13.1"
+  }
+}
